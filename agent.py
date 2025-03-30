@@ -36,6 +36,7 @@ def classification_node(state: State):
        - Blog: Personal or informal web writing
        - Research: Academic or scientific content
        - Other: Content that doesn't fit the above categories
+       - Technology: Related to technology 
    """
 
    # Define a prompt template that asks the model to classify the given text
